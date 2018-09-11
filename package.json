@@ -1,0 +1,27 @@
+{
+  "name": "zendesk-report-app",
+  "version": "1.0.0",
+  "description": "An app that runs custom reports against Zendesk data",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mazerab/zendesk-report-app.git"
+  },
+  "keywords": [
+    "Autodesk",
+    "Zendesk"
+  ],
+  "author": "Bastien Mazeran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mazerab/zendesk-report-app/issues"
+  },
+  "homepage": "https://github.com/mazerab/zendesk-report-app#readme",
+  "dependencies": {
+    "node-zendesk": "^1.3.0"
+  },
+  "devDependencies": {}
+}
